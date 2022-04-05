@@ -22,7 +22,8 @@ Login Activity
 --------------
 
 <img src="https://user-images.githubusercontent.com/83459053/153645115-d0bb18f8-dfc4-41b8-a8c7-ea9f8a2bdefc.jpg"  width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645180-1981f1c4-0166-41d8-af63-e93fb5743bd7.jpg"  width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645321-d1400116-c2ce-4203-9344-b710f52ea678.jpg"  width=15% height=15%>
-  
+
+---------------------------------------------------------
 =========================================================
 
 
