@@ -39,13 +39,15 @@ Login Activity
 SignUp Activity
 --------------
 
-<img src="https://user-images.githubusercontent.com/83459053/153645344-ff8f75c5-229b-4e8c-94ad-5853f3992d7d.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645356-3de16aa2-3420-46bf-8bb6-00575b6f5c6b.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645377-45eb2995-0f4b-48f8-a4d0-eddc6018a53f.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645408-f3c6dd32-31ec-4728-aa6a-468456a17072.jpg" width=15% height=15%>
+<img src="https://user-images.githubusercontent.com/83459053/153645344-ff8f75c5-229b-4e8c-94ad-5853f3992d7d.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645356-3de16aa2-3420-46bf-8bb6-00575b6f5c6b.jpg" width=15% height=15%>    
 
 ------------------------------------------------------------
 
 
 Selecting Profile Pic
 ---------------------
+<img src="https://user-images.githubusercontent.com/83459053/153645377-45eb2995-0f4b-48f8-a4d0-eddc6018a53f.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645408-f3c6dd32-31ec-4728-aa6a-468456a17072.jpg" width=15% height=15%>
+
 
 <img src="https://user-images.githubusercontent.com/83459053/153645438-f5d12766-2658-43b6-a73c-c38a08c0b722.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645465-a5540d73-8d97-4e0a-8d60-b2717ccbb3b6.jpg" width=15% height=15%>    
 
