@@ -6,7 +6,7 @@ Realtime Chat App for Android Using Firebase
 
   <img src="https://user-images.githubusercontent.com/83459053/153644510-e554e4bb-40c2-4852-a666-60ed609a267f.jpg"  width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645115-d0bb18f8-dfc4-41b8-a8c7-ea9f8a2bdefc.jpg"  width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645180-1981f1c4-0166-41d8-af63-e93fb5743bd7.jpg"  width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645321-d1400116-c2ce-4203-9344-b710f52ea678.jpg"  width=15% height=15%>
   
-==================================
+=========================================================================
 
 <img src="https://user-images.githubusercontent.com/83459053/153645344-ff8f75c5-229b-4e8c-94ad-5853f3992d7d.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645356-3de16aa2-3420-46bf-8bb6-00575b6f5c6b.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645377-45eb2995-0f4b-48f8-a4d0-eddc6018a53f.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645408-f3c6dd32-31ec-4728-aa6a-468456a17072.jpg" width=15% height=15%>
 
