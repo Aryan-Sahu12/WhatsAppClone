@@ -1,10 +1,8 @@
 # WhatsAppClone
 Realtime Chat App for Android Using Firebase
 
-![Screenshot_20220211_231616](https://user-images.githubusercontent.com/83459053/153644510-e554e4bb-40c2-4852-a666-60ed609a267f.jpg)  
 
-
-<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/83459053/153644510-e554e4bb-40c2-4852-a666-60ed609a267f.jpg" width="150" height="280">
 
 
 ![Screenshot_20220211_232028](https://user-images.githubusercontent.com/83459053/153645115-d0bb18f8-dfc4-41b8-a8c7-ea9f8a2bdefc.jpg) 
