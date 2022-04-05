@@ -2,7 +2,7 @@
 Realtime Chat App for Android Using Firebase
 
 
-<img src="https://user-images.githubusercontent.com/83459053/153644510-e554e4bb-40c2-4852-a666-60ed609a267f.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/83459053/153644510-e554e4bb-40c2-4852-a666-60ed609a267f.jpg" width=30% height=30%>
 
 
 <img src="https://user-images.githubusercontent.com/83459053/153645115-d0bb18f8-dfc4-41b8-a8c7-ea9f8a2bdefc.jpg" width=50% height=50%>
