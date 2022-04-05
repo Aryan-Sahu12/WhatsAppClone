@@ -22,6 +22,10 @@ Pre-requisites
 
 Open Source Library Used
 -------------------------
+- Picasso Library v2.71828
+- Paging library v3.0.1
+- Country code picker v2.5.4
+- EmojiEditText(vanniktech:emoji-google) v0.8.0
 
 
 Login Activity
