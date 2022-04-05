@@ -41,6 +41,11 @@ Selecting Profile Pic
 
 
 
+
+Chat and People Activity
+-------------------------
+
+
 <img src="https://user-images.githubusercontent.com/83459053/153645497-4949ff23-7f22-42c5-87c0-a5a211bc44f7.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645529-fe451196-5762-4fbe-8f76-349dd5fba479.jpg" width=15% height=15%>
 
 ------------------------------------------------------------
