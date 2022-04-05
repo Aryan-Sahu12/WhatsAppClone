@@ -34,12 +34,12 @@ SignUp Activity
 ------------------------------------------------------------
 
 
+Selecting Profile Pic
+---------------------
+
 <img src="https://user-images.githubusercontent.com/83459053/153645438-f5d12766-2658-43b6-a73c-c38a08c0b722.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645465-a5540d73-8d97-4e0a-8d60-b2717ccbb3b6.jpg" width=15% height=15%>    
 
 
-
-Selecting Profile Pic
----------------------
 
 <img src="https://user-images.githubusercontent.com/83459053/153645497-4949ff23-7f22-42c5-87c0-a5a211bc44f7.jpg" width=15% height=15%>    <img src="https://user-images.githubusercontent.com/83459053/153645529-fe451196-5762-4fbe-8f76-349dd5fba479.jpg" width=15% height=15%>
 
