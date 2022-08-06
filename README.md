@@ -8,7 +8,7 @@ Getting Started
 ---------------
 
 
-<img src="https://user-images.githubusercontent.com/83459053/153644510-e554e4bb-40c2-4852-a666-60ed609a267f.jpg"  width=15% height=15%>    
+<img src="https://user-images.githubusercontent.com/83459053/153644510-e554e4bb-40c2-4852-a666-60ed609a267f.jpg"  width=25% height=25%>    
 
 
 
